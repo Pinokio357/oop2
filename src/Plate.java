@@ -19,7 +19,7 @@ public class Plate {
 
     public void addFood(int foodValue) {
         food += foodValue;
-        System.out.printf("%d food units added to the pleate\n", foodValue);
+        System.out.printf("%d food units added to the plate \n", foodValue);
     }
 
 
